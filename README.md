@@ -1,2 +1,2 @@
 # projects
-Both school and personal projects
+Java projects
