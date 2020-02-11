@@ -1,2 +1,2 @@
-# projects
-Java projects
+# maze solver
+Find solution to any maze
